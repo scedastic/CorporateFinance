@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CorporateFinanceConsole/1.0.0": {
+        "dependencies": {
+          "CorporateFinance": "1.0.0"
+        },
+        "runtime": {
+          "CorporateFinanceConsole.dll": {}
+        }
+      },
+      "CorporateFinance/1.0.0": {
+        "runtime": {
+          "CorporateFinance.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CorporateFinanceConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CorporateFinance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

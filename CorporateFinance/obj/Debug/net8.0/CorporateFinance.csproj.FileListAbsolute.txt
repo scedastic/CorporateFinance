@@ -1,0 +1,11 @@
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\bin\Debug\net8.0\CorporateFinance.deps.json
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\bin\Debug\net8.0\CorporateFinance.dll
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\bin\Debug\net8.0\CorporateFinance.pdb
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\obj\Debug\net8.0\CorporateFinance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\obj\Debug\net8.0\CorporateFinance.AssemblyInfoInputs.cache
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\obj\Debug\net8.0\CorporateFinance.AssemblyInfo.cs
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\obj\Debug\net8.0\CorporateFinance.csproj.CoreCompileInputs.cache
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\obj\Debug\net8.0\CorporateFinance.dll
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\obj\Debug\net8.0\refint\CorporateFinance.dll
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\obj\Debug\net8.0\CorporateFinance.pdb
+C:\Users\ysheinfil\source\repos\CorporateFinance\CorporateFinance\obj\Debug\net8.0\ref\CorporateFinance.dll

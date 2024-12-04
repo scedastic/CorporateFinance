@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1264738B-62C1-4C26-948B-D7119AA9A71C}|CorporateFinanceTestProject\\CorporateFinanceTestProject.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinancetestproject\\amortizationscheduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264738B-62C1-4C26-948B-D7119AA9A71C}|CorporateFinanceTestProject\\CorporateFinanceTestProject.csproj|solutionrelative:corporatefinancetestproject\\amortizationscheduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinance\\amortizationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|solutionrelative:corporatefinance\\amortizationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinance\\amortizationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|solutionrelative:corporatefinance\\amortizationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinance\\cashflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|solutionrelative:corporatefinance\\cashflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B927A1FA-764B-4021-B65E-ED50DA26FD7C}|CorporateFinanceConsole\\CorporateFinanceConsole.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinanceconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B927A1FA-764B-4021-B65E-ED50DA26FD7C}|CorporateFinanceConsole\\CorporateFinanceConsole.csproj|solutionrelative:corporatefinanceconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinance\\netpresentvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|solutionrelative:corporatefinance\\netpresentvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinance\\valuations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726DE428-CB7C-4657-8E41-DBC1217C79C8}|CorporateFinance\\CorporateFinance.csproj|solutionrelative:corporatefinance\\valuations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264738B-62C1-4C26-948B-D7119AA9A71C}|CorporateFinanceTestProject\\CorporateFinanceTestProject.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinancetestproject\\valuationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264738B-62C1-4C26-948B-D7119AA9A71C}|CorporateFinanceTestProject\\CorporateFinanceTestProject.csproj|solutionrelative:corporatefinancetestproject\\valuationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264738B-62C1-4C26-948B-D7119AA9A71C}|CorporateFinanceTestProject\\CorporateFinanceTestProject.csproj|c:\\users\\ysheinfil\\source\\repos\\corporatefinance\\corporatefinancetestproject\\cashflowinstancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264738B-62C1-4C26-948B-D7119AA9A71C}|CorporateFinanceTestProject\\CorporateFinanceTestProject.csproj|solutionrelative:corporatefinancetestproject\\cashflowinstancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmortizationScheduleTests.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinanceTestProject\\AmortizationScheduleTests.cs",
+              "RelativeDocumentMoniker": "CorporateFinanceTestProject\\AmortizationScheduleTests.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinanceTestProject\\AmortizationScheduleTests.cs",
+              "RelativeToolTip": "CorporateFinanceTestProject\\AmortizationScheduleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:00:29.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinanceConsole\\Program.cs",
+              "RelativeDocumentMoniker": "CorporateFinanceConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinanceConsole\\Program.cs",
+              "RelativeToolTip": "CorporateFinanceConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:15:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CashFlowInstanceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinanceTestProject\\CashFlowInstanceTests.cs",
+              "RelativeDocumentMoniker": "CorporateFinanceTestProject\\CashFlowInstanceTests.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinanceTestProject\\CashFlowInstanceTests.cs",
+              "RelativeToolTip": "CorporateFinanceTestProject\\CashFlowInstanceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:03:08.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Valuations.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\Valuations.cs",
+              "RelativeDocumentMoniker": "CorporateFinance\\Valuations.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\Valuations.cs",
+              "RelativeToolTip": "CorporateFinance\\Valuations.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:34:45.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmortizationRecord.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\AmortizationRecord.cs",
+              "RelativeDocumentMoniker": "CorporateFinance\\AmortizationRecord.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\AmortizationRecord.cs",
+              "RelativeToolTip": "CorporateFinance\\AmortizationRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:04:54.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashFlow.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\CashFlow.cs",
+              "RelativeDocumentMoniker": "CorporateFinance\\CashFlow.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\CashFlow.cs",
+              "RelativeToolTip": "CorporateFinance\\CashFlow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:20:07.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetPresentValue.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\NetPresentValue.cs",
+              "RelativeDocumentMoniker": "CorporateFinance\\NetPresentValue.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\NetPresentValue.cs",
+              "RelativeToolTip": "CorporateFinance\\NetPresentValue.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:19:57.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmortizationSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\AmortizationSchedule.cs",
+              "RelativeDocumentMoniker": "CorporateFinance\\AmortizationSchedule.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinance\\AmortizationSchedule.cs",
+              "RelativeToolTip": "CorporateFinance\\AmortizationSchedule.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:54:04.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValuationsTests.cs",
+              "DocumentMoniker": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinanceTestProject\\ValuationsTests.cs",
+              "RelativeDocumentMoniker": "CorporateFinanceTestProject\\ValuationsTests.cs",
+              "ToolTip": "C:\\Users\\ysheinfil\\source\\repos\\CorporateFinance\\CorporateFinanceTestProject\\ValuationsTests.cs",
+              "RelativeToolTip": "CorporateFinanceTestProject\\ValuationsTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:33:12.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
